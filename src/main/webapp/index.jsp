@@ -107,24 +107,24 @@ nav{
 <body style="background-image:url('sup.jpg');background-size:cover;">
 <nav>
 <div class="menu">
- <h1 style="color:grey;">kiran-photography</h1>
+ <h1 style="color:grey;">Amazing-photography</h1>
  </nav>
  <br>
  </div>
  <div style="display:flex">
  
    <div > 
-    <img src="D:\Notepad++\log.jpg" class="logo" height="50" width="50">
+    <img src="D:\Notepad++\log.jpg" class="logo" height="70" width="70">
 	</div>
 	
 	<div class="head">
-	<h2 >Kids And Wedding Photography<h2>
+	<h2 >Witness the beauty in Photography<h2>
 	
 	
 	</div><br>
 	<div style="padding-right:300px;padding-left:0px;padding-top:100px;float:left;">
 	<marquee scrolldelay="100" align="justify">
-	<h3 class = "marquee" >25% off on pre-booking hurry up!<h3>
+	<h3 class = "marquee" >hurry up! create your account.<h3>
 	</marquee>
 	
 	</div>
