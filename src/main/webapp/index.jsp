@@ -114,7 +114,7 @@ nav{
  <div style="display:flex">
  
    <div > 
-    <img src="D:\Notepad++\log.jpg" class="logo" height="70" width="70">
+    <img src="log.jpg" class="logo" height="70" width="70">
 	</div>
 	
 	<div class="head">
